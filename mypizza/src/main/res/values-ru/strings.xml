@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPizza</string>
+    <string name="distance">Расстояние (м)</string>
+    <string name="phone">Телефон</string>
+    <string name="rating">Рейтинг</string>
+    <string name="address">Адрес</string>
+    <string name="click_again">Нажмите еще раз для выхода из приложения</string>
+    <string name="no_location">Не удалось определить координаты</string>
+    <string name="get_location">Получены координаты </string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPizza</string>
+    <string name="distance">Distance(m)</string>
+    <string name="phone">Phone</string>
+    <string name="rating">Rating</string>
+    <string name="address">Address</string>
+    <string name="click_again">Click again to exit</string>
+    <string name="no_location">The location is not defined</string>
+    <string name="get_location">Get a location </string>
+
+</resources>
